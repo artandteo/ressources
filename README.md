@@ -21,12 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-
-
-
-
-
 
 coucou moi cest kevin
-
