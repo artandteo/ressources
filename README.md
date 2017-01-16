@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* cou cou c'est hotbread
